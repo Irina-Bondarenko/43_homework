@@ -1,0 +1,31 @@
+{
+  "name": "43_homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Irina-Bondarenko/43_homework.git"
+  },
+  "keywords": [
+    "key"
+  ],
+  "author": "Irina Irina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Irina-Bondarenko/43_homework/issues"
+  },
+  "homepage": "https://github.com/Irina-Bondarenko/43_homework#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "prettier": "^2.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.22.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
